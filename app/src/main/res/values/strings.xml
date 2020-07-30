@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L15_Homework</string>
+    <string name="web_text">www.google.com</string>
+    <string name="phone_text">+996 XXX XXX XXX</string>
+    <string name="web_button">WEB</string>
+    <string name="phone_button">DIAL</string>
+</resources>
